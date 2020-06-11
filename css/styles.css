@@ -2,6 +2,7 @@ body {
     background-color: black;
     color: white;
     margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #top {
@@ -22,4 +23,43 @@ body {
     position: absolute;
     right: 8px;
     bottom: 0px;
+}
+
+#logo {
+    position: absolute;
+    text-align: center;
+    left: 8px;
+    top: 8px;
+}
+
+#ver {
+    position: absolute;
+    text-align: left;
+    left: 8px;
+    bottom: 8px;
+    color: white;
+    font-size: 8px;
+}
+
+#logo > * {
+    margin: 0px;
+}
+
+.metal {
+    color: red;
+    font-size: 18px;
+}
+
+.gear {
+    position: relative;
+    top: -12px;
+    color: white;
+    font-size: 20px;
+}
+
+.solid {
+    position: relative;
+    color: white;
+    top: -10px;
+    font-size: 12px;
 }
