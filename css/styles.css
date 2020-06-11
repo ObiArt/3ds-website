@@ -18,6 +18,7 @@ body {
 }
 
 #snake {
+    position: relative;
     right: 8px;
-    position: fixed;
+    bottom: 0px;
 }
