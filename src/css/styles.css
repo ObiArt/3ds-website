@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0px;
+}
+
+#topscreen{
+    width:400px;
+    height:220px;
+    overflow:hidden;
+}
+
+#bottomscreen{
+    width:320px;
+    height:212px;
+    overflow:hidden;
+    margin:0 auto;
+}
