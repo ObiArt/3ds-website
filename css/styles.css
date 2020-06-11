@@ -16,3 +16,8 @@ body {
     overflow:hidden;
     margin:0 auto;
 }
+
+#snake {
+    right: 8px;
+    position: fixed;
+}
