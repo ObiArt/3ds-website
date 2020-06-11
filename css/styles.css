@@ -4,13 +4,13 @@ body {
     margin: 0px;
 }
 
-#topscreen{
+#top {
     width:400px;
     height:220px;
     overflow:hidden;
 }
 
-#bottomscreen{
+#bottom {
     width:320px;
     height:212px;
     overflow:hidden;
