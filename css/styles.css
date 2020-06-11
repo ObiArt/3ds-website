@@ -8,6 +8,7 @@ body {
     width:400px;
     height:220px;
     overflow:hidden;
+    position: relative;
 }
 
 #bottom {
@@ -18,7 +19,7 @@ body {
 }
 
 #snake {
-    position: relative;
+    position: absolute;
     right: 8px;
     bottom: 0px;
 }
