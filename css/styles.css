@@ -17,6 +17,7 @@ body {
     height:212px;
     overflow:hidden;
     margin:0 auto;
+    text-align: center;
 }
 
 #snake {
@@ -64,7 +65,10 @@ body {
     font-size: 12px;
 }
 
-.cell {
-    width: 8px;
-    height: 8px;
+.fd {
+    color: #ffbb00;
+    max-width: 100%;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: monospace;
 }
